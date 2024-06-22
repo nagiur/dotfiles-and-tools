@@ -11,4 +11,6 @@ Curated list of developer tools for efficient workflows.
 |---|---|---|------------------------------------------|
 | API Documentation | Swagger | Interactive API documentation framework | https://swagger.io/|
 | Diagramming | Mermaid | Generate flowcharts, sequence diagrams, and more | https://mermaid.js.org/|
+| Name Generator | Namelix | Business Name Generator | https://namelix.com/ |
+| Photo Edior | Pixlr | Pixlr is a online photo editor similar to Photoshop | https://pixlr.com/ |
 | ... | ... | ... | ...                                      |
