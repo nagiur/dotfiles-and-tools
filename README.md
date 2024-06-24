@@ -1,3 +1,9 @@
+# Resources
+| Category | Name | Description | Link|
+|---|---|---|------------------------------------------|
+|GreatFrontEnd|Frontend|The great way to prepare for front end interviews|https://www.greatfrontend.com/|
+
+# Job and Community
 | Category | Name | Description | Link|
 |---|---|---|------------------------------------------|
 |Job Search|Taro|Tech Career Path and Job Advice|https://www.jointaro.com/|
