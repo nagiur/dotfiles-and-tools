@@ -1,7 +1,9 @@
 # Hachathons
 | Name | Link|Description |
 |---|---|------------------------------------------|
-|Devpost|https://devpost.com/|Participate in online virtual and in-person hackathons\
+|Devpost|https://devpost.com/|Participate in online virtual and in-person hackathons|
+|Angelhack|https://angelhack.com/|...|
+|Hackerearth|https://www.hackerearth.com/|...|
 
 # Resources
 | Category | Name | Description | Link|
