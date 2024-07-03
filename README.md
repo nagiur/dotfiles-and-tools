@@ -26,4 +26,5 @@ Curated list of developer tools for efficient workflows.
 | Diagramming | Mermaid | Generate flowcharts, sequence diagrams, and more | https://mermaid.js.org/|
 | Name Generator | Namelix | Business Name Generator | https://namelix.com/ |
 | Photo Edior | Pixlr | Pixlr is a online photo editor similar to Photoshop | https://pixlr.com/ |
+| Database | dbdocs | ... | https://dbdocs.io/docs| 
 | ... | ... | ... | ...                                      |
